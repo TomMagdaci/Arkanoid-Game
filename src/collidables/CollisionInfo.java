@@ -4,7 +4,7 @@ import geometry.Point;
 /**
  * Collision info contains the collision point and the collidable object.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class CollisionInfo {
 

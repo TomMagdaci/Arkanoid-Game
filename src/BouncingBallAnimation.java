@@ -1,4 +1,3 @@
-//ID: 316603604
 import geometry.Point;
 import geometry.Velocity;
 import sprites.Ball;

@@ -8,7 +8,7 @@ import biuoop.DrawSurface;
 /**
  * a SpriteCollection will hold a collection of sprites.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
 public class SpriteCollection {
 

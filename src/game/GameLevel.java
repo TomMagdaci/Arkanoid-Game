@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * Initialize and run a game level.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class GameLevel implements Animation {
 

@@ -6,7 +6,7 @@ import biuoop.DrawSurface;
  * WinScreen is an Animation which acts in case specific key was pressed.
  * And ceases his actions according to key press
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class PauseScreen implements Animation {
 

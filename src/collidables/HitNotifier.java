@@ -6,7 +6,7 @@ import observers.HitListener;
  * HitNotifier is an object which is used to implement the Observer design pattern.
  * It is used as observable and inform the requested address in case of hit.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public interface HitNotifier {
 

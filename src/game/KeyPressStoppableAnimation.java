@@ -6,7 +6,7 @@ import biuoop.KeyboardSensor;
 /**
  * KeyPressStoppable is an Animation which start/stop it's action according to specific key press.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class KeyPressStoppableAnimation implements Animation {
 

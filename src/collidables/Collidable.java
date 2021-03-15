@@ -8,7 +8,7 @@ import sprites.Ball;
 /**
  * Collidable objects are things that can be collided with.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public interface Collidable {
 

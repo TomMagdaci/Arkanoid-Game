@@ -5,7 +5,7 @@ import biuoop.DrawSurface;
 /**
  * WinScreen is an Animation which acts in case the user win the game.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class WinScreen implements Animation {
 

@@ -35,7 +35,7 @@ public class LevelWideEasy extends AbstractLevel implements LevelInformation {
  /**
   * LevelWideEasy is a level in our game.
   * It has ten balls and 15 blocks sorting in a row. In addtion, it has wide paddle.
-  * @author Tom Magdaci 316603604
+  * @author Tom Magdaci 
   */
  public LevelWideEasy() {
   super(BALLSNUM, BALLSPEED, PADDLESPEED, PADDLEWIDTH, "Wide Easy", FIRSTROWLENGTH, ROWSNUM);

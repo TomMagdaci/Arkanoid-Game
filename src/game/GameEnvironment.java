@@ -12,7 +12,7 @@ import collidables.CollisionInfo;
 /**
  * The GameEnvironment will be a collection of collidables.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class GameEnvironment {
 

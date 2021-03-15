@@ -1,2 +1,2 @@
 # Arkanoid
-Arkanoid code that is implemented in Java. OOP Project
+Arkanoid code that is implemented in Java. First year oop project.

@@ -8,7 +8,7 @@ import sprites.Sprite;
 /**
  * LevelIndicator is a sprite that is drawn on the screen for showing the level's name.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class LevelIndicator implements Sprite {
 

@@ -11,7 +11,7 @@ import java.util.List;
  * LevelInformation is a level in the game that creates specific paddle,
  * balls and blocks according to its planned locations and sizes.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public interface LevelInformation {
   /**

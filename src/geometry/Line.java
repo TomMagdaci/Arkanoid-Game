@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * This class generates new Line on the plane.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class Line {
 

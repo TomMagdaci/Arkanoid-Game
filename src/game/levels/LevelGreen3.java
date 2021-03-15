@@ -14,7 +14,7 @@ import java.util.Random;
  * It is level number three, it has two balls, 5 rows of blocks the first row has 10 blocks
  * then it the number of block decreases in 1 from one row to the other.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class LevelGreen3 extends AbstractLevel implements LevelInformation {
 

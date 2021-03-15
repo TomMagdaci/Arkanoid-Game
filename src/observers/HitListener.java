@@ -7,7 +7,7 @@ import sprites.Ball;
  * HitListener is an object which is used to implement the Observer design pattern.
  * It is used as an observer and act in case it is informed that hit happened.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
 public interface HitListener {
 

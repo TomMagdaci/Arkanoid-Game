@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * Level is a game run with specific environment such as: specific balls' number or paddle speed and so on..
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public abstract class AbstractLevel {
 

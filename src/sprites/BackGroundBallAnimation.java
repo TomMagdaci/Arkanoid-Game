@@ -7,7 +7,7 @@ import java.awt.Color;
 /**
  * BackGroundBallAnimation is a sprite that is used as a background in game.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
  public class BackGroundBallAnimation implements Sprite {
 

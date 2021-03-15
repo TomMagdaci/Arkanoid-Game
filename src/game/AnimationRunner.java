@@ -7,7 +7,7 @@ import biuoop.Sleeper;
 /**
  * an AnimationRunner is an object that used for running different animations in specific frames.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class AnimationRunner {
  //Fields

@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * Block is a collidable object in shape of a rectangle.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class Block implements Collidable, Sprite, HitNotifier {
 

@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * GameFlow object is the object that runs the game's level on after the other.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class GameFlow {
 

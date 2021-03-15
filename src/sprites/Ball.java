@@ -15,7 +15,7 @@ import java.awt.Color;
  * This class creates a new Ball.
  * Ball has centerPoint, radius, velocity, color.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
 public class Ball implements Sprite {
  //Fields

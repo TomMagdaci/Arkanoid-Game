@@ -7,7 +7,7 @@ import geometry.Point;
  * DeathRegoinBlock is a block which its' use and implementation are different from regular Block.
  * DrawOn method is implemented differently, and this block is used in BallsRemoval process.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class DeathRegionBlock extends Block {
 

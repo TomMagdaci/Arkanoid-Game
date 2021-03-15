@@ -9,7 +9,7 @@ import java.awt.Color;
 /**
  * A ScoreIndicator is a block which is used for presentation of the user's score in the game.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom MagdacI
  */
 public class ScoreIndicator extends Block {
 

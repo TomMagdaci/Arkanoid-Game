@@ -18,7 +18,7 @@ import game.GameLevel;
  * It is the player in the game.
  * It is a rectangle that is controlled by the arrow keys, and moves according to the player key presses.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
 public class Paddle implements Sprite, Collidable {
 

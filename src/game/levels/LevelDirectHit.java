@@ -17,7 +17,7 @@ import java.util.List;
  * LevelDirectHit is a level in our game.
  * It has one ball and one block.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class LevelDirectHit extends AbstractLevel implements LevelInformation {
 

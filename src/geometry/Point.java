@@ -2,7 +2,7 @@ package geometry;
 /**
  * This class generates new Point on the plane.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class Point {
 

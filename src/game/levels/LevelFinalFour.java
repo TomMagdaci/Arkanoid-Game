@@ -13,7 +13,7 @@ import java.util.Random;
  * LevelFinalFour is a level in our game.
  * It is level number four, it has three balls,  rows of blocks and each row has 15 blocks in it.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class LevelFinalFour extends AbstractLevel implements LevelInformation {
 

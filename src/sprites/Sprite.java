@@ -6,7 +6,7 @@ import biuoop.DrawSurface;
  *  a Sprite is a game object that can be drawn to the screen
  *  (and which is not just a background image).
  *
- *  @author Tom Magdaci 316603604
+ *  @author Tom Magdaci
  */
 public interface Sprite {
 

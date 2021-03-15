@@ -3,7 +3,7 @@ package geometry;
  * This class creates a new velocity.
  * Velocity specifies the delta in position on the `x` and the `y` axis.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
   */
 public class Velocity {
 

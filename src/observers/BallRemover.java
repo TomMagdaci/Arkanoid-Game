@@ -9,7 +9,7 @@ import sprites.Ball;
  * a BallRemover is in charge of removing balls from the game, as well as keeping count
  * of the number of balls that remain.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci
  */
 public class BallRemover implements HitListener {
 

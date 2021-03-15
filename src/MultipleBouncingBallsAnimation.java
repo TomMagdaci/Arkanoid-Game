@@ -1,5 +1,3 @@
-//ID: 316603604
-
 import biuoop.GUI;
 import biuoop.DrawSurface;
 import biuoop.Sleeper;

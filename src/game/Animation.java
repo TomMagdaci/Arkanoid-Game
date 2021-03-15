@@ -5,7 +5,7 @@ import biuoop.DrawSurface;
 /**
  * An animation is an object that has specific time boundaries for his actions (frames).
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public interface Animation {
 

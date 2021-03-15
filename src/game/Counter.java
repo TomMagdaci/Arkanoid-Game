@@ -3,7 +3,7 @@ package game;
 /**
  * Counter is used to track on the amount of specific objects.
  *
- * @author Tom Magdaci 316603604
+ * @author Tom Magdaci 
  */
 public class Counter {
 

@@ -1,5 +1,5 @@
 # Arkanoid
-Arkanoid game was implemented in Java. First year oop project.
+Arkanoid game developed in Java. First year oop project.
 
 As you can see in the main dir there is the exact project dir.
 "biuoop-1.3.jar" is needed as external library to the project.
